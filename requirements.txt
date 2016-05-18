@@ -28,19 +28,10 @@ BeautifulSoup4
 requests
 six
 wsgiref
-
-
-bcrypt==2.0.0
-cffi==1.5.2
-
-
-
-pycparser==2.14
-python-bcrypt==0.3.1
-
-
-
-=======
+bcrypt
+cffi
+pycparser
+python-bcrypt
 
 # ----------------------
 # Testing
